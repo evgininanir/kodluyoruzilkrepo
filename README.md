@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 # Installation
 Önceki projeyi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecektir)
 ```sh
-git clone https://github.com/evgin2505/kodluyoruzilkrepo.git
+git clone https://github.com/evgininanir/kodluyoruzilkrepo.git
 ```
 
 # Usage 
@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için ,lütfen önce neyi 
 
 # Licence
 
- [MIT](https://github.com/evgin2505/kodluyoruzilkrepo/blob/main/LICENSE)
+ [MIT](https://github.com/evgininanir/kodluyoruzilkrepo/blob/main/LICENSE)
